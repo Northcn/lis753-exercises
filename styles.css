@@ -1,0 +1,36 @@
+h1 {
+    color: #fc0303;
+    font-family: papyrus;
+  }
+  
+  p {
+    background: #ffb8b8;
+    font-family: lucida handwriting;
+    line-height: 1.25;
+  }
+  
+  figure {
+    border: 1px solid black;
+    padding: 0px;
+    margin: 0px;
+  }
+  
+  
+  figure img {
+    width: 20%;
+      height: auto;
+  }
+  
+  p img {
+    float: right;
+    background: white;
+    width: 40%;
+    height: auto;
+    border-radius: 30px;
+    margin-left: 20px;
+  }
+  
+  .guinea {
+    background: white;
+    font family: Times New Roman;
+  }
