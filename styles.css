@@ -21,16 +21,3 @@ h1 {
       height: auto;
   }
   
-  p img {
-    float: right;
-    background: white;
-    width: 40%;
-    height: auto;
-    border-radius: 30px;
-    margin-left: 20px;
-  }
-  
-  .guinea {
-    background: white;
-    font family: Times New Roman;
-  }
