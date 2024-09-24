@@ -22,7 +22,7 @@ h1 {
   }
   
   ul li a {
-    font-weight: lighter;
+    font-weight: bold;
     color: lightcoral;
     background-color: aliceblue;
     text-decoration: none;
