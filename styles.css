@@ -21,3 +21,14 @@ h1 {
       height: auto;
   }
   
+  ul li a {
+    font-weight: bolder;
+    color: lightcoral;
+    background-color: aliceblue;
+    text-decoration: none;
+  }
+
+  ul li a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+  }
