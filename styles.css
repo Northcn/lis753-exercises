@@ -13,7 +13,7 @@ h1#site-title {;
   }
   
   p {
-    background: #ffb8b8;
+    background: white;
     font-family: lucida handwriting;
     line-height: 1.25;
   }
@@ -39,8 +39,8 @@ h1#site-title {;
   
   ul li a {
     font-weight: bold;
-    color: lightcoral;
-    background-color: black;
+    color: black
+    background-color: white
     text-decoration: none;
   }
 
