@@ -1,6 +1,15 @@
-h1 {
-    color: #fc0303;
+h1#site-title {;
+    font-size: 72px;
     font-family: papyrus;
+    Letter-spacing: -3px
+    text-align: center;
+  }
+
+  h1#title {
+    font-size: 48px;
+    margin-top: 0;
+    margin-bottom: .125em;
+    text-align: center;
   }
   
   p {
