@@ -17,6 +17,13 @@ h1#site-title {;
     font-family: lucida handwriting;
     line-height: 1.25;
   }
+
+  p#Cat-description {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: white;
+    line-height: 1.25;
+
+  }
   
   figure {
     border: 1px solid black;
