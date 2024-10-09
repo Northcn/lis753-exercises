@@ -40,7 +40,7 @@ h1#site-title {;
   ul li a {
     font-weight: bold;
     color: black
-    background-color: white
+    background-color: white;
     text-decoration: none;
   }
 
