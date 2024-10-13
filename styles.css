@@ -19,7 +19,7 @@ h1#site-title {;
 
   p#Cat-description {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background: white;
+    background: burlywood;
     line-height: 1.25;
 
   }
@@ -38,7 +38,7 @@ h1#site-title {;
   
   ul li a {
     font-weight: bold;
-    word-spacing: 10px;
+    word-spacing: 5px;
     text-decoration: none;
     color: black
   }
