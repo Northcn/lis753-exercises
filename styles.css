@@ -29,13 +29,13 @@ h1#site-title {;
     padding: 0px;
     margin: 0px;
     margin-left: 20px;
+    background-color: burlywood; 
   }
   
   
   figure img {
     width: 20%;
       height: auto;
-      background-color: burlywood;
   }
   
   ul li a {
