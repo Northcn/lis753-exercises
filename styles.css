@@ -38,6 +38,7 @@ h1#site-title {;
   
   ul li a {
     font-weight: bold;
+    word-spacing: 10px;
     text-decoration: none;
     color: black
   }
