@@ -49,3 +49,9 @@ h1#site-title {;
     text-decoration: underline;
     cursor: pointer;
   }
+
+  #Cat-Sitting {
+    border: 1px solid black;
+    margin-left: 20px;
+    background-color: burlywood; 
+  }
