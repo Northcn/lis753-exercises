@@ -1,11 +1,11 @@
 h1#site-title {
-    font-size: 72px;
+    font-size: 72rem;
     font-family: papyrus;
     text-align: center
   }
 
   h1#title {
-    font-size: 48px;
+    font-size: 48rem;
     margin-top: 0;
     margin-bottom: .125em;
     text-align: center;
@@ -41,13 +41,6 @@ h1#site-title {
   figure img {
     max-width: 100%;
       height: auto;
-  }
-
-  nav ul {
-    display: flex;
-    justify-content: center;
-    gap: 30px;
-    list-style: none;
   }
   
   nav ul li a {
