@@ -72,7 +72,3 @@ h1#site-title {
     border: 1px solid black;
     background-color: burlywood; 
   }
-
-  body {
-    overflow-x: hidden;
-  }
