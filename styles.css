@@ -5,7 +5,7 @@ h1#site-title {
     text-align: center
   }
 
-  @media (max-width:376px) {
+  @media all and (min-width:376px) {
     h1#site-title {
       font-size: 3rem;
     }
