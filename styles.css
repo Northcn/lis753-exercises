@@ -7,7 +7,7 @@ h1#site-title {
 
   @media (max-width:376px) {
     h1#site-title {
-      font-size: 4.5rem;
+      font-size: 3rem;
     }
   }
 
