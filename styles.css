@@ -5,6 +5,12 @@ h1#site-title {
     text-align: center
   }
 
+  @media (max-width: 768px) {
+    h1#site-title {
+      font-size: 4rem;
+    }
+  }
+
   h1#title {
     font-size: 3vw;
     margin-top: 0;
