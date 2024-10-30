@@ -1,18 +1,12 @@
-@media all and (max-width: 768px) {
-  h1#site-title {
-    font-size: 3rem;
-    }
-}
-
 h1#site-title {
-    font-size: 4.5rem;
+    font-size: 5vw;
     font-family: papyrus;
     max-width: 100%;
     text-align: center
   }
 
   h1#title {
-    font-size: 3rem;
+    font-size: 3vw;
     margin-top: 0;
     margin-bottom: .125em;
     text-align: center;
