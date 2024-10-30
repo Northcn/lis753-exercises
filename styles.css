@@ -23,6 +23,11 @@ h1#site-title {
     line-height: 1.25;
 
   }
+
+  img {
+    max-width: 100;
+    height: auto;
+  }
   
   figure {
     border: 1px solid black;
@@ -34,7 +39,7 @@ h1#site-title {
   
   
   figure img {
-    width: 20%;
+    max-width: 100;
       height: auto;
   }
   
