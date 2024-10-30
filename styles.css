@@ -1,6 +1,7 @@
 h1#site-title {
     font-size: 4.5rem;
     font-family: papyrus;
+    max-width: 100%;
     text-align: center
   }
 
