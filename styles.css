@@ -51,7 +51,7 @@ h1#site-title {
   }
 
   nav ul {
-    list style: none;
+    list-style: none;
     padding-left: 0;
   }
   
