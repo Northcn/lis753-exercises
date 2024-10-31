@@ -80,11 +80,3 @@ h1#site-title {
     max-width: 100%;
     height: auto;
   }
-
-  @media all and (max-width: 768px) {
-    .Cat-Sitting {
-      max-width: 100%;
-      height: auto;
-      object-fit: contain;
-    }
-  }
