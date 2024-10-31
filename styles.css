@@ -79,5 +79,11 @@ h1#site-title {
     background-color: burlywood; 
     max-width: 100%;
     height: auto;
-    overflow: scroll;
+  }
+
+  @media all and (max-width: 768px) {
+    .Cat-Sitting {
+      max-width: 100%;
+      height: auto;
+    }
   }
