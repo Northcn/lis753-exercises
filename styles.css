@@ -79,4 +79,5 @@ h1#site-title {
     background-color: burlywood; 
     max-width: 100%;
     height: auto;
+    overflow: scroll;
   }
