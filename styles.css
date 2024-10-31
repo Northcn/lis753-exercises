@@ -74,7 +74,7 @@ h1#site-title {
     cursor: pointer;
   }
 
-  #Cat-Sitting {
+  .Cat-Sitting {
     border: 1px solid black;
     background-color: burlywood; 
     max-width: 100%;
