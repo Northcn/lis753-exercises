@@ -77,7 +77,6 @@ h1#site-title {
   .Cat-Sitting {
     border: 1px solid black;
     background-color: burlywood; 
-    background-size: contain;
     max-width: 100%;
     height: auto;
   }
